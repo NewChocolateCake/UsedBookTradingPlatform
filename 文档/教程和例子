@@ -1,0 +1,44 @@
+前端框架：微信小程序框架。
+前端语言：JavaScript。
+标记语言和样式语言：WXML和WXSS。
+
+微信小程序使用小程序框架，通常使用WXML（类似HTML）、WXSS（类似CSS）和JavaScript来构建界面和逻辑。
+可以参考微信官方文档获取详细信息。
+
+
+学习资源和教程：
+
+  [WXML官方文档]
+https://developers.weixin.qq.com/miniprogram/dev/framework/view/wxml/
+  [WXSS官方文档]
+https://developers.weixin.qq.com/miniprogram/dev/framework/view/wxss/
+  [JavaScript官方文档]
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+微信小程序开发文档：包含详细的开发指南和API文档。
+[微信小程序开发文档]
+https://developers.weixin.qq.com/miniprogram/dev/
+
+微信小程序官方教程：微信官方提供的教程可以帮助你快速入门。
+[微信小程序 - 入门教程]
+https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html
+
+微信小程序社区：在社区中获取帮助、分享经验和了解最新的开发技巧。
+[微信开放社区]
+https://developers.weixin.qq.com/community/miniprogram
+
+
+推荐工具：
+
+微信开发者工具：用于调试和发布微信小程序的官方工具。
+  [微信开发者工具下载]
+https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html
+
+可使用VS Code等代码编辑器来编写和管理小程序代码。
+
+
+
+小程序例子：
+1.https://github.com/lin-xin/wxapp-mall
+2.https://github.com/skyvow/m-mall
+PS：这俩例子比较适用用于前端开发的参考
